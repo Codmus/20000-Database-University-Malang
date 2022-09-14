@@ -6,3 +6,5 @@
 
 
 Sample Url: https://raw.githubusercontent.com/Codmus/20000-Database-University-Malang/main/Sample%20Database%20Universitas%20Malang.txt
+
+20k Malang University Student Database, Price: $35
