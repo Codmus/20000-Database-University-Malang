@@ -1,0 +1,125 @@
+Sample University Of Malang (UM.AC.ID)
+
+Format : Photo URL, Adress, Name Full, Id, Other
+
+Id: 100154404827
+Name Full: INGKE MARIA FEBRIYANTI
+Alamat: Jl. Sri Utomo, Ds. Madusari, RT.02/RW.02, Kec. Siman, Kab. Ponorogo', 'jalan jombang 1a/54e
+Phone number: 085649575864
+URL Photo: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404827&angkatan=2010
+Other: S1 Pendidikan Luar Biasa'2010'
+Gender : Perempuan
+Agama: Islam
+Tanggal Lahir: 1992-02-20
+
+
+Id: 100154404828
+Name Full: FENNI DWI ANGGRAENI
+Alamat: Jl. Darsono Gg. Parkit No.33, Kota Batu, RT/RW/022/202
+Phone Number: 089680833656
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404828&angkatan=2010
+Other: S1 Pendidikan Luar Biasa', '2010', '016', 'Pendidikan Luar Biasa', '01', 'Fakultas Ilmu Pendidikan', 'FIP'
+Tanggal Lahir: '1990-01-21
+Gender: Perempuan
+Agama: Islam
+
+
+Id: 100154404829
+Name Full: RIFQI SYAHRUL AZIZAH
+Alamat: Jl. Garuda Ds. Pagerluyung RW 14 RT 04 Kec. Gedeg Kab Mojokerto
+Phone Number: 085791652533
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404829&angkatan=2010
+Other: S1 Pendidikan Luar Biasa', '2010', '016', 'Fakultas Ilmu Pendidikan'
+Tanggal Lahir: 1992-03-27
+Gender: Laki-laki
+Agama: Islam
+
+
+ID: 100154404830
+Name Full: TARI KURNIAWATI
+Alamat: RT.03/RW.07, Kebonduren, Ponggok, Blitar', 'Jl. Galunggung VII No.2 Malang
+Phone Number: 08563632068
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404830&angkatan=2010
+Other: , S1 Pendidikan Luar Biasa', '2010', '016','Fakultas Ilmu Pendidikan
+Tanggal Lahir: 1990-08-11
+Gender: Perempuan
+Agama: Islam
+
+
+Id: 100154404831
+Name Full: WAHYU ARI RAMADONA
+Alamat: Jalan Dr. Cipto VIII Kav 30 Gondang Utara Randuagung - Singosari Malang
+Phone Number: 08980320625
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404831&angkatan=2010
+Other: ', S1 Pendidikan Luar Biasa', '2010', '016','Fakultas Ilmu Pendidikan
+Tanggal Lahir: 1991-04-25
+Jenis Kelamin: Laki-laki
+Agama: Islam
+
+Id: 100154404832
+Name Full: ABDULLAH HASBI
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404832&angkatan=2010
+Phone Number: 085755554529
+ALAMAT: Jl. Melati No. 47, Purworejo, Kota Pasuruan
+Other: S1 Pendidikan Luar Biasa', '2010','Fakultas Ilmu Pendidikan
+Tanggal Lahir: 1992-03-20
+Gender: Laki-laki
+Agama: Islam
+
+
+Id: 100154404833
+Name Full: DESY RAHMAWATI
+Alamat: Krajan RT.01/RW.01, Ds. Ngepung, Kec. Sukapura, Kab. Probolinggo', 'Jl. Terusan Surabaya No.56 A  Malang,
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404833&angkatan=2010
+Phone Number: 085646692114
+Other: S1 Pendidikan Luar Biasa', '2010','Fakultas Ilmu Pendidikan
+Tanggal Lahir: 1992-01-06
+Gender: Perempuan
+Agama: Islam
+
+
+ID: 100154404834
+Name Full: CAROLUS WIDODO DEDY KURNIAWAN
+Alamat: Jl. Semangka 8 G-2 No. 2, Perumnas Bugul Permai, Kota Pasuruan
+URL PHOTO : https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404834&angkatan=2010
+Phone Number: 085649152940
+Other: S1 Pendidikan Luar Biasa', '2010','Fakultas Ilmu Pendidikan
+Tanggal Lahir: 1991-11-04
+Gender: Laki-laki
+Agama: Katholik
+
+Id: 100154404836
+Name Full: CHARIS FAUZI
+Alamat: ,Dsn Semut Ds Jambu Kec. Kayen Kidul Kab. Kediri RT 01 RW 01', 'Jl. Raya Tlogomas Gg. 6B No. 14, Malang
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404836&angkatan=2010
+Phone Number: 085815877033
+Other: S1 Pendidikan Luar Biasa', '2010', '016','Fakultas Ilmu Pendidikan
+Tanggal Lahir: 1992-05-27
+Gender: Laki-laki
+Agama: islam
+
+
+Id: 100154404837
+Name Full: ANDRIANA WAHYU ISTANTI
+Alamat: Pandanrejo RT 24 RW 06 Kec. Pagak Kab. Malang', 'Jl.Terusan Surabaya No.56A
+URL PHOTO:  https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404837&angkatan=2010
+Other: S1 Pendidikan Luar Biasa', '2010', '016','Fakultas Ilmu Pendidikan
+Number Phone: 085791555548
+Tanggal Lahir: 1991-10-05
+Gender: Laki-laki
+Agama: Islam
+
+
+Id: 100154404838
+Name Full: KUSMIATI DIAN LESTARI
+Alamat: Bandung Rejo, RT.20/RW.05, Kec. Bantur, Kab. Malang', 'Jl. Terusan Surabaya No. 56A Malang
+URL PHOTO: https://api.um.ac.id/akademik/operasional/GetFoto.ptikUM?nim=100154404838&angkatan=2010
+Other: S1 Pendidikan Luar Biasa', '2010', '016','Fakultas Ilmu Pendidikan
+Number Phone: 085748513936
+Tanggal Lahir: 1991-10-29
+Gender: Perempuan
+Agama: Islam
+
+
+
+Full Page 2010-2019 Price: $35
